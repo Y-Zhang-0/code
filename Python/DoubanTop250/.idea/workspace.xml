@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="367bc6fa-1925-4a13-9071-022884c2a177" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XCWrxhK3tdwr2s3B0yAJJNjKne" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="DBNavigator.Project.ConnectionSettings" />
+  </component>
+  <component name="RunManager" selected="Python.Spider">
+    <configuration name="Exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\Code\python\project1\Exception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testBs4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/testBs4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testSqlite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/testSqlite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urllibTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/urllibTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Spider" />
+        <item itemvalue="Python.testSqlite" />
+        <item itemvalue="Python.testBs4" />
+        <item itemvalue="Python.urllibTest" />
+        <item itemvalue="Python.Exception" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="367bc6fa-1925-4a13-9071-022884c2a177" name="Default Changelist" comment="" />
+      <created>1580550758525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580550758525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Notifications" timestamp="1608119930054">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1608119930054" />
+    <state x="897" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608865354064">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="897" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1608865354064" />
+    <state x="684" y="175" key="DBNavigator.ConnectionInfoDialog" timestamp="1608817135536">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="684" y="175" key="DBNavigator.ConnectionInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1608817135536" />
+    <state x="349" y="147" key="DBNavigator.DatasetFilterDialog" timestamp="1608864975127">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="147" key="DBNavigator.DatasetFilterDialog/0.0.1536.864@0.0.1536.864" timestamp="1608864975127" />
+    <state x="502" y="210" key="DBNavigator.DatasetRecordEditorDialog" timestamp="1608868106606">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="502" y="210" key="DBNavigator.DatasetRecordEditorDialog/0.0.1536.864@0.0.1536.864" timestamp="1608868106606" />
+    <state x="158" y="41" key="DBNavigator.ProjectSettingsDialog" timestamp="1608909983294">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="158" y="41" key="DBNavigator.ProjectSettingsDialog/0.0.1536.864@0.0.1536.864" timestamp="1608909983294" />
+    <state x="459" y="114" key="FileChooserDialogImpl" timestamp="1608817492397">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="459" y="114" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608817492397" />
+    <state width="1515" height="181" key="GridCell.Tab.0.bottom" timestamp="1608868594021">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="181" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608868594021" />
+    <state width="1515" height="181" key="GridCell.Tab.0.center" timestamp="1608868594021">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="181" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608868594021" />
+    <state width="1515" height="181" key="GridCell.Tab.0.left" timestamp="1608868594020">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="181" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608868594020" />
+    <state width="1515" height="181" key="GridCell.Tab.0.right" timestamp="1608868594021">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="181" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608868594021" />
+    <state x="344" y="47" width="914" height="715" key="SettingsEditor" timestamp="1608867625718">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="344" y="47" width="914" height="715" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1608867625718" />
+    <state width="293" height="160" key="TextEditor.info_link" timestamp="1608909962613">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="293" height="160" key="TextEditor.info_link/0.0.1536.864@0.0.1536.864" timestamp="1608909962613" />
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1608813528399">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1608813528399" />
+  </component>
+</project>
