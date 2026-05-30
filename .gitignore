@@ -1,2 +1,6 @@
 /.idea/*
 
+# Python 编译缓存
+__pycache__/
+*.pyc
+

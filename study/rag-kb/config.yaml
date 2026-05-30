@@ -1,0 +1,42 @@
+llm:
+  provider: ollama          # ollama | cloud
+  ollama:
+    base_url: http://localhost:11434
+    model: qwen2:7b
+    timeout: 120
+  cloud:
+    provider: openai        # openai | anthropic
+    api_key: ""
+    model: gpt-4o-mini
+    base_url: ""            # 可覆盖为自定义端点
+
+embedding:
+  model: BAAI/bge-m3
+  device: cpu               # cpu | cuda
+  normalize: true
+
+vector_store:
+  type: chroma
+  persist_dir: ./data/chroma_db
+  collection: knowledge_base
+  top_k: 5
+
+splitter:
+  chunk_size: 512
+  chunk_overlap: 64
+
+upload:
+  dir: ./data/uploads
+  max_size_mb: 50
+  allowed_types:
+    - pdf
+    - docx
+    - md
+    - txt
+    - xlsx
+    - csv
+
+api:
+  host: 0.0.0.0
+  port: 8000
+  debug: false

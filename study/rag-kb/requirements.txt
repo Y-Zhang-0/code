@@ -1,0 +1,34 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+
+# LangChain 核心
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-chroma>=0.1.0
+
+# 文档解析
+pypdf>=4.0.0
+python-docx>=1.1.0
+openpyxl>=3.1.0
+unstructured>=0.13.0
+
+# 嵌入模型
+sentence-transformers>=3.0.0
+FlagEmbedding>=1.2.0
+
+# 向量数据库
+chromadb>=0.5.0
+
+# LLM
+ollama>=0.2.0
+
+# 配置
+pyyaml>=6.0.1
+pydantic>=2.7.0
+pydantic-settings>=2.3.0
+
+# 测试
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+httpx>=0.27.0
