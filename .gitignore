@@ -1,2 +1,7 @@
 /.idea/*
 
+# C/C++ build outputs
+/.vscode/build/
+
+# macOS metadata
+.DS_Store

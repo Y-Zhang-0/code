@@ -1,0 +1,35 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "C/C++: 编译当前文件",
+      "type": "process",
+      "command": "/bin/zsh",
+      "args": [
+        "-c",
+        "set -eu\nsource_file=\"$1\"\nbuild_dir=\"$2\"\noutput_file=\"$3\"\nsource_dir=\"$4\"\ncase \"$source_file\" in\n  \"$source_dir\"/*) ;;\n  *) printf '%s\\n' '这个编译任务只用于 C 目录中的 C/C++ 源文件。' >&2; exit 2 ;;\nesac\ncase \"$source_file\" in\n  *.c) compiler=/usr/bin/clang; standard=-std=c17 ;;\n  *.cpp|*.cc|*.cxx|*.C|*.CPP|*.c++) compiler=/usr/bin/clang++; standard=-std=c++17 ;;\n  *) printf '%s\\n' '请先打开并保存一个 .c 或 .cpp 源文件。' >&2; exit 2 ;;\nesac\nmkdir -p -- \"$build_dir\"\nexec \"$compiler\" \"$standard\" -arch arm64 -g -O0 -Wall -Wextra \"$source_file\" -o \"$output_file\"\n",
+        "vscode-c-cpp-build",
+        "${file}",
+        "${workspaceFolder}/.vscode/build",
+        "${workspaceFolder}/.vscode/build/${fileBasenameNoExtension}",
+        "${workspaceFolder}/C"
+      ],
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "problemMatcher": [
+        "$gcc"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "clear": true
+      },
+      "detail": "只编译 C 目录中的当前 C/C++ 文件；C17 / C++17；Apple Silicon。"
+    }
+  ]
+}

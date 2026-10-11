@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++: 调试当前文件 (LLDB)",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/.vscode/build/${fileBasenameNoExtension}",
+      "args": [],
+      "cwd": "${fileDirname}",
+      "terminal": "integrated",
+      "stopOnEntry": false,
+      "preLaunchTask": "C/C++: 编译当前文件"
+    }
+  ]
+}
